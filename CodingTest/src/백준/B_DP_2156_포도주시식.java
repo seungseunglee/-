@@ -1,11 +1,9 @@
 package 백준;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.util.Arrays;
 
-public class B_2156_포도주시식 {
+public class B_DP_2156_포도주시식 {
 
     public static void main(String[] args) throws IOException {
 //        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
