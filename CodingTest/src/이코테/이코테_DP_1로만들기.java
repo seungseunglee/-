@@ -1,7 +1,4 @@
-package 이것이취업을위한코딩테스트다;
-
-import java.util.ArrayList;
-import java.util.List;
+package 이코테;
 
 public class 이코테_DP_1로만들기 {
     public static void main(String[] args) {
