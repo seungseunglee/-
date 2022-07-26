@@ -1,6 +1,6 @@
 package 이코테;
 
-public class 이코테_DFSBFS_음료수얼려먹기 {
+public class 이코테_05_DFSBFS_음료수얼려먹기 {
 
     public static void main(String[] args) {
         solution(4,5, new boolean[][]{{true,true,false,false,true},{true,true,true,false,false},{false,false,false,false,false},{true,true,true,true,true}});

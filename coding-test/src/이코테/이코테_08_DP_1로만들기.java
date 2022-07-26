@@ -1,6 +1,6 @@
 package 이코테;
 
-public class 이코테_DP_1로만들기 {
+public class 이코테_08_DP_1로만들기 {
     public static void main(String[] args) {
         int N = 26;
         solution(N);

@@ -2,7 +2,7 @@ package 이코테;
 
 import java.util.Arrays;
 
-public class 이코테_DP_효율적인화폐구성 {
+public class 이코테_08_DP_효율적인화폐구성 {
 
     public static void main(String[] args) {
         int[] N = {2, 3};
