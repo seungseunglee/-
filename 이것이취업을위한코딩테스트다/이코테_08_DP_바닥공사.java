@@ -1,4 +1,4 @@
-package 이코테;
+package 이것이취업을위한코딩테스트다;
 
 public class 이코테_08_DP_바닥공사 {
 

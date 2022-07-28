@@ -8,18 +8,18 @@ import java.util.StringTokenizer;
 public class B_IMP_1063_킹 {
 
     public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = new StringTokenizer(br.readLine());
-        String king = st.nextToken();
-        String dol = st.nextToken();
-        int n = Integer.parseInt(st.nextToken());
-        String[] dir = new String[n];
-        for (int i=0; i<n; i++) {
-            dir[i] = br.readLine();
-        }
-        solution(king, dol, n, dir);
+//        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+//        StringTokenizer st = new StringTokenizer(br.readLine());
+//        String king = st.nextToken();
+//        String dol = st.nextToken();
+//        int n = Integer.parseInt(st.nextToken());
+//        String[] dir = new String[n];
+//        for (int i=0; i<n; i++) {
+//            dir[i] = br.readLine();
+//        }
+//        solution(king, dol, n, dir);
 
-//        solution("A1", "A2", 5, new String[]{"B", "L", "LB", "RB", "LT"}); // A1 A2
+        solution("A1", "A2", 5, new String[]{"B", "L", "LB", "RB", "LT"}); // A1 A2
 //        solution("A1", "H8", 1, new String[]{"T"}); // A2 H8
 //        solution("A1", "A2", 1, new String[]{"T"}); // A2 A3
 //        solution("A1", "A2", 2, new String[]{"T", "R"}); // B2 A3

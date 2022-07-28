@@ -1,4 +1,4 @@
-package 이코테;
+package 이것이취업을위한코딩테스트다;
 
 import java.io.BufferedReader;
 import java.io.IOException;
