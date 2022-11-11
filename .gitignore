@@ -6,6 +6,8 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+# Protected files
+/진짜시험/
 
 ##############################
 ## Java
